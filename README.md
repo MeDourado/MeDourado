@@ -4,7 +4,7 @@
 
 🎓 Estudando:
 - Desenvolvimento de Software com Foco em Back-End @Cubos Academy
-- Jogos Digitais @Descomplica
+- Faculdade de Desenvolvimento de Jogos @Descomplica](https://descomplica.com.br/)
 - Desenvolvimento FullStack @RecodePro
 
 No meu tempo livre... 
