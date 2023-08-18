@@ -16,6 +16,6 @@
 ### Eu estou estudando... 🧩
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
-![Javascript]([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://drive.google.com/file/d/1YOOJRZcThhQfhZgExT2CKkeFswS3mKQ9/view?usp=sharing))
+![Javascript](https://drive.google.com/file/d/1YOOJRZcThhQfhZgExT2CKkeFswS3mKQ9/view)
 
 
