@@ -2,6 +2,7 @@
 
 💻 Desenvolvedora Fullstack com foco no Back-End, sempre em busca de novos desafios
 
+
 🎓 Estudando...
 - [Desenvolvimento de Software com Foco em Back-End](https://www.linkedin.com/in/cubos-academy-459042223?originalSubdomain=br) no Cubos Academy
 - [Desenvolvimento de Jogos](https://descomplica.com.br/) na Descomplica
@@ -9,8 +10,9 @@
 🕒 No meu tempo livre... 
 - 🧙‍ Jogo jogos de tabuleiro com meus amigos. 
 - 📺 Assisto animes, "One Piece" e "HxH" são os meus preferidos, sempre que estou sem nada para assistir, revejo os clássicos.
-- 🚀 Assisto filmes de todos os tipos, desde obras melancolicas como Ataque dos Cães a filmes de super herois.
+- 🚀 Sempre busco novas obras, desde obras de fantasia e super-herois até mistérios interessantes.
 
+ 
 📚 Atualmente Lendo: "Território Lovecraft"
 
 ### Tecnologias e Ferramentas... 🧩
