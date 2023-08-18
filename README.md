@@ -3,9 +3,8 @@
 💻 Desenvolvedora Fullstack com foco no Back-End, sempre em busca de novos desafios
 
 🎓 Estudando:
-- Desenvolvimento de Software com Foco em Back-End @Cubos Academy
-- Faculdade de Desenvolvimento de Jogos @Descomplica](https://descomplica.com.br/)
-- Desenvolvimento FullStack @RecodePro
+- [Jogos Digitais](https://descomplica.com.br/) na Descomplica
+
 
 No meu tempo livre... 
 - 📺 Exploradora de animes, com "One Piece" e "HxH" entre os favoritos.
