@@ -41,6 +41,7 @@
 ## Entre em contato comigo! 📭
 <div align="left">
   <a href="https://www.linkedin.com/in/maria-eduarda-dourado-8a11b1186/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>  
+ Se você desejar oferecer feedback ou contribuir com melhorias, fique à vontade para fazer um pull request ou entrar em contato através do email mariaeduarda.s.dourado@gmail.com
 </div>
 
 
