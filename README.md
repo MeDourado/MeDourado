@@ -13,7 +13,7 @@
 - 📺 Assisto animes, "One Piece" e "HxH" são os meus preferidos, sempre que estou sem nada para assistir, revejo os clássicos.
 - 🚀 Sempre busco novas obras, desde obras de fantasia e super-herois até mistérios interessantes.
 
- 📚 Atualmente Lendo: "Território Lovecraft"
+ 📚 Atualmente Lendo: "Sandman"
 
 ## Tecnologias e Ferramentas... 🧩
 <div align="left">
