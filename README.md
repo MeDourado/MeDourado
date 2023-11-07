@@ -5,7 +5,6 @@
 
 
 ## 🎓 Estudando...
-- [Desenvolvimento de Software com Foco em Back-End](https://www.linkedin.com/in/cubos-academy-459042223?originalSubdomain=br) no Cubos Academy
 - [Desenvolvimento de Jogos](https://descomplica.com.br/) na Descomplica
 
 ## 🕒 No meu tempo livre... 
