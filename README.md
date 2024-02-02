@@ -1,8 +1,11 @@
 
 ### Olá! Eu sou Eduarda Dourado 
 
-💻 Desenvolvedora Fullstack com foco no Back-End, sempre em busca de novos desafios
+💻 Desenvolvedora Fullstack sempre em busca de novos desafios
 
+
+## 🎓 Estudando...
+- [Ciência da Computação](https://descomplica.com.br/) na Descomplica
 
 ## 🎓 Estudando...
 - [Ciência da Computação](https://descomplica.com.br/) na Descomplica
@@ -10,9 +13,7 @@
 ## 🕒 No meu tempo livre... 
 - 🧙‍ Jogo jogos de tabuleiro com meus amigos. 
 - 📺 Assisto animes, "One Piece" e "HxH" são os meus preferidos, sempre que estou sem nada para assistir, revejo os clássicos.
-- 🚀 Sempre busco novas obras, desde obras de fantasia e super-herois até mistérios interessantes.
-
- 📚 Atualmente Lendo: "O Livro de Líbero"
+- 📚 Atualmente Lendo: "O Livro de Líbero"
 
 ## Tecnologias e Ferramentas... 🧩
 <div align="left">
@@ -47,7 +48,12 @@
 
 ## Entre em contato comigo! 📭
 <div align="left">
-  <a href="https://www.linkedin.com/in/maria-eduarda-dourado-8a11b1186/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>  
+  <a href="https://www.linkedin.com/in/maria-eduarda-dourado-8a11b1186/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:mariaeduarda.s.dourado@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail logo"  />
+  </a>
 </div>
 
 
